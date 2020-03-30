@@ -1,0 +1,50 @@
+
+Thread #0 
+
+aragland  8956  0.0  0.0   4628   880 pts/1    S+   12:57   0:00 sh -c ps aux | grep parallel >> processesowned.txt
+aragland  8958  0.0  0.0  21536  1064 pts/1    S+   12:57   0:00 grep parallel
+
+Thread #1 
+
+aragland  8961  0.0  0.0   4628   780 pts/1    S+   12:57   0:00 sh -c ps aux | grep parallel >> processesowned.txt
+aragland  8963  0.0  0.0  21536  1064 pts/1    S+   12:57   0:00 grep parallel
+
+Thread #2 
+
+aragland  8966  0.0  0.0   4628   784 pts/1    S+   12:57   0:00 sh -c ps aux | grep parallel >> processesowned.txt
+aragland  8968  0.0  0.0  21536  1108 pts/1    S+   12:57   0:00 grep parallel
+
+Thread #3 
+
+aragland  8971  0.0  0.0   4628   776 pts/1    S+   12:57   0:00 sh -c ps aux | grep parallel >> processesowned.txt
+aragland  8973  0.0  0.0  21536  1152 pts/1    S+   12:57   0:00 grep parallel
+
+Thread #4 
+
+aragland  8976  0.0  0.0   4628   800 pts/1    S+   12:57   0:00 sh -c ps aux | grep parallel >> processesowned.txt
+aragland  8978  0.0  0.0  21536  1056 pts/1    S+   12:57   0:00 grep parallel
+
+Thread #5 
+
+aragland  8981  0.0  0.0   4628   832 pts/1    S+   12:57   0:00 sh -c ps aux | grep parallel >> processesowned.txt
+aragland  8983  0.0  0.0  21536  1040 pts/1    S+   12:57   0:00 grep parallel
+
+Thread #6 
+
+aragland  8986  0.0  0.0   4628   772 pts/1    S+   12:57   0:00 sh -c ps aux | grep parallel >> processesowned.txt
+aragland  8988  0.0  0.0  21536  1052 pts/1    S+   12:57   0:00 grep parallel
+
+Thread #7 
+
+aragland  8991  0.0  0.0   4628   780 pts/1    S+   12:57   0:00 sh -c ps aux | grep parallel >> processesowned.txt
+aragland  8993  0.0  0.0  21536  1152 pts/1    S+   12:57   0:00 grep parallel
+
+Thread #8 
+
+aragland  8996  0.0  0.0   4628   860 pts/1    S+   12:57   0:00 sh -c ps aux | grep parallel >> processesowned.txt
+aragland  8998  0.0  0.0  21536  1036 pts/1    S+   12:57   0:00 grep parallel
+
+Thread #9 
+
+aragland  9001  0.0  0.0   4628   804 pts/1    S+   12:57   0:00 sh -c ps aux | grep parallel >> processesowned.txt
+aragland  9003  0.0  0.0  21536  1012 pts/1    S+   12:57   0:00 grep parallel
